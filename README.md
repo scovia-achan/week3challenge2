@@ -1,2 +1,10 @@
-# week4-CLI
-###Create a commandline application that consumes the NewsAPI
+### Bank account
+Simulate a bank account supporting opening/closing, withdrawals, and deposits
+of money. Ignore the possibility of concurrent transactions!
+
+A bank account can be accessed in multiple ways. Clients can make
+deposits and withdrawals using the internet, mobile phones, etc. Shops
+can charge against the account.
+
+It should be possible to close an account; operations against a closed
+account must fail.
